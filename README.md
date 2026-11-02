@@ -45,13 +45,14 @@ Canonical URLs and `sitemap.xml` now use this hosting address. Only this separat
 website repository is public; the Flutter app and private signing material are
 not included.
 
-## Before public launch
+## Live release notes
 - Confirm the developer identity / store developer name, support mailbox access, intended audience and the under-13 exclusion. The policy names the exact app and verified contact; do not invent a company identity.
 - These documents are a practical draft based on inspected source, not a guarantee of legal or Google Play compliance. Have the owner and, where appropriate, a qualified legal adviser review them.
 - Add the final policy/terms URLs inside the app and complete Play's Data safety and sensitive-permission declarations consistently. Creating web pages does not perform those steps.
 - Update the policy and terms when RevenueCat, real purchases, remote analytics, cloud sync, ads, or other data flows are integrated. Billing Library 8.3.0 is bundled but the present paywall is preview-only.
 - Check OS backup behaviour and the store target-audience declarations for the shipping build.
-- Public store/testing URLs weren't supplied: the CTA honestly opens an Android testing enquiry by email. Replace it with the verified Google Play URL when access is ready. Don't imply open downloads during a closed test.
+- Android is publicly available on Google Play. The website download buttons use `https://play.google.com/store/apps/details?id=com.axo.focus`.
+- Keep the Play listing, privacy policy, terms, support page, and website copy aligned as app features and data practices change.
 - Canonical URLs and a sitemap use the configured GitHub Pages address. A dedicated social-sharing image can be added later.
 - Review website/app text together after every privacy-affecting release.
 

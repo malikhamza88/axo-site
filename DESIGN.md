@@ -25,5 +25,5 @@ Concept:
     first step / focus / reward         interactive illustrative demo
     practical capabilities
     kindness narrative + FAQ
-    Android testing enquiry
+    Google Play download CTA
     privacy / terms / support
